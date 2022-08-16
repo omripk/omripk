@@ -1,6 +1,6 @@
 ### Hello World! 
 
-Portfolio site: [Portfolio](https://omeripek.net/)
+Portfolio site: [Portfolio](http://omeripek.net/)
 
 **📫 Where to find me:** 
 
